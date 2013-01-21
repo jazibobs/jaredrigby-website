@@ -1,0 +1,27 @@
+﻿body {
+	
+	background-image: url("../images/light_grey_noise.png");
+	font-family: 'Monda', sans-serif;
+}
+
+div {
+	margin-top: 50px;
+	padding: 40px;
+	background-image: url("../images/white_noise.png");
+	border-radius: 5px;
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+	color: #B45F04;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
