@@ -13,6 +13,21 @@ p {
 	margin-bottom: 20px;
 }
 
+.twitter:hover {
+	text-decoration: underline;
+	color: #00a0d1;
+}
+
+.linkedin:hover {
+	text-decoration: underline;
+	color: #0e76a8;
+}
+
+.plus:hover {
+	text-decoration: underline;
+	color: #db4a39;
+}
+
 #container {
 	max-width: 900px;
 	min-width: 900px;
@@ -24,12 +39,14 @@ p {
 	padding-left: 30px;
 	padding-right: 30px;
 	padding-bottom: 10px;
+	box-shadow: 0px 0px 30px #cccccc;
 }
 
 #navigation {
 	border-bottom-style: solid;
 	border-bottom-color: #cccccc;
 	border-bottom-width: 2px;
+	margin-bottom: 15px;
 }
 
 #navigation ul {
@@ -76,6 +93,10 @@ p {
 	text-decoration: underline;
 }
 
+#main a:visited {
+	color: #cc6611;
+}
+
 .project {
 	display: inline-block;
 	width: 400px;
@@ -114,12 +135,12 @@ p {
 	display: inline-block;
 }
 
-#footer a:hover {
-	text-decoration: underline;
-	color: #FF9900;
-}
-
 #copy {
 	margin:14px;
 	width: 500px;
+}
+
+#copy a:hover {
+	text-decoration: underline;
+	color: #ff9900;
 }
