@@ -82,7 +82,22 @@ p {
 #main h1 {
 	color: #FF9900;
 	font-size: 1.5em;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
+}
+
+#main h2 {
+	font-size: 0.7em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#main h3 {
+	font-size: 0.7em;
+	margin-bottom: 20px;
+}
+
+#main li {
+	margin-bottom: 5px;
 }
 
 #main a {
@@ -112,6 +127,19 @@ p {
 	box-shadow: 1px 1px 3px 3px #ff9900;
 	margin: 20px;
 	cursor: pointer;
+}
+
+.projtext {
+	display: inline-block;
+	width: 450px;
+	min-height: 400px;
+}
+
+.projimg {
+	border-color: #cccccc;
+	border-width: 2px;
+	border-style: solid;
+	float: right;
 }
 
 #footer {
