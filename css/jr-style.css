@@ -136,10 +136,15 @@ p {
 }
 
 .projimg {
+	float: right;
+	max-width: 405px;
+	margin-bottom: 10px;
+}
+
+.projimg img {
 	border-color: #cccccc;
 	border-width: 2px;
 	border-style: solid;
-	float: right;
 }
 
 #footer {
