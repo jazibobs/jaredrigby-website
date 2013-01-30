@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.jaredrigby.co.uk/</loc>
+  <lastmod>2013-01-29T17:40:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.jaredrigby.co.uk/about.html</loc>
+  <lastmod>2013-01-29T18:42:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.jaredrigby.co.uk/projects/overview.html</loc>
+  <lastmod>2013-01-28T18:59:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.jaredrigby.co.uk/contact.html</loc>
+  <lastmod>2013-01-29T17:08:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.jaredrigby.co.uk/docs/Jared_Rigby_CV_2013.pdf</loc>
+  <lastmod>2013-01-28T21:41:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.jaredrigby.co.uk/projects/jaredrigby.html</loc>
+  <lastmod>2013-01-29T18:32:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.jaredrigby.co.uk/projects/coordinated.html</loc>
+  <lastmod>2013-01-29T18:32:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.jaredrigby.co.uk/projects/hlg.html</loc>
+  <lastmod>2013-01-29T18:32:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
