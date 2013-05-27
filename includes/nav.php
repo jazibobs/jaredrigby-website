@@ -3,7 +3,7 @@
 			<div id="navigation">
 				
 				<a href="http://www.jaredrigby.co.uk" >
-					<img src="images/logo.png" alt="Jared Rigby Logo" title="Jared Rigby Logo"/>
+					<img src="/images/logo.png" alt="Jared Rigby Logo" title="Jared Rigby Logo"/>
 				</a>
 				<ul>
 					<li><a id="aboutNav" href="http://www.jaredrigby.co.uk/about.html">ABOUT</a></li>
