@@ -1,0 +1,180 @@
+﻿body {
+	font-family: 'Ubuntu', sans-serif;
+	color: #6E6E6E;
+	background-image: url("../images/white_noise.png");
+}
+
+a {
+	text-decoration: none;
+	color: #6E6E6E;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+.twitter:hover {
+	text-decoration: underline;
+	color: #00a0d1;
+}
+
+.linkedin:hover {
+	text-decoration: underline;
+	color: #0e76a8;
+}
+
+.plus:hover {
+	text-decoration: underline;
+	color: #db4a39;
+}
+
+#container {
+	max-width: 900px;
+	min-width: 900px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	background: #ffffff;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	box-shadow: 0px 0px 30px #cccccc;
+}
+
+#navigation {
+	border-bottom-style: solid;
+	border-bottom-color: #cccccc;
+	border-bottom-width: 2px;
+	margin-bottom: 15px;
+}
+
+#navigation ul {
+	float: right;
+	margin: 0;
+	padding: 0;
+	width: 500px;
+	text-align: right;
+}
+
+#navigation li {
+	margin: 16px;
+	display: inline-block;
+}
+
+#navigation a:hover {
+	text-decoration: underline;
+	color: #FF9900;
+}
+
+#main {
+	margin-left: 10px;
+	margin-bottom: 60px;
+}
+
+#main img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}
+
+#main h1 {
+	color: #FF9900;
+	font-size: 1.5em;
+	margin-bottom: 20px;
+}
+
+#main h2 {
+	font-size: 0.7em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#main h3 {
+	font-size: 0.7em;
+	margin-bottom: 20px;
+}
+
+#main li {
+	margin-bottom: 5px;
+}
+
+#main a {
+	color: #FF9900;
+}
+
+#main a:hover {
+	text-decoration: underline;
+}
+
+#main a:visited {
+	color: #cc6611;
+}
+
+.project {
+	display: inline-block;
+	width: 400px;
+	height: 300px;
+	box-shadow: 1px 1px 3px 3px #cccccc;
+	margin: 20px;
+}
+
+.project:hover {
+	display: inline-block;
+	width: 400px;
+	height: 300px;
+	box-shadow: 1px 1px 3px 3px #ff9900;
+	margin: 20px;
+	cursor: pointer;
+}
+
+.projtext {
+	display: inline-block;
+	width: 450px;
+	min-height: 400px;
+}
+
+.projimg {
+	float: right;
+	max-width: 405px;
+	margin-bottom: 10px;
+}
+
+.projimg img {
+	border-color: #cccccc;
+	border-width: 2px;
+	border-style: solid;
+}
+
+#footer {
+	clear: both;
+	border-top-style: solid;
+	border-top-color: #cccccc;
+	border-top-width: 2px;
+	font-size: 0.8em;
+}
+
+#footer ul {
+	float: right;
+	margin: 0;
+	padding: 0;
+	width: 400px;
+	text-align: right;
+}
+
+#footer li {
+	margin: 14px;
+	display: inline-block;
+}
+
+#copy {
+	margin:14px;
+	width: 500px;
+}
+
+#copy a:hover {
+	text-decoration: underline;
+	color: #ff9900;
+}
