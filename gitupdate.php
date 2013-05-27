@@ -1,3 +1,4 @@
 <?php
  
-shell_exec( 'cd /var/www/ && git pull origin master' );
+$file = fopen( '/git-pull/jaredrigby.co.uk', 'w+' );
+fclose( $file );
