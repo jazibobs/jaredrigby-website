@@ -1,1 +1,1 @@
-SetEnv Variable "Value"
+ErrorDocument 404 /sitemap.html
