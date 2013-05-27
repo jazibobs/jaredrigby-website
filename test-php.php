@@ -1,1 +1,1 @@
-<?php echo "Test GitHub Site updates"; ?>
+<?php echo "Test GitHub remote updates"; ?>
