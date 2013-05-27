@@ -1,1 +1,1 @@
-<?php echo "Test GitHub origin master"; ?>
+<?php echo "Test GitHub origin master 2"; ?>
