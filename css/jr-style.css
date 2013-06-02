@@ -13,6 +13,11 @@ p {
 	margin-bottom: 20px;
 }
 
+.github:hover {
+	text-decoration: underline;
+	color: #171515;
+}
+
 .twitter:hover {
 	text-decoration: underline;
 	color: #00a0d1;
